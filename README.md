@@ -3,7 +3,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 Internship Category - Data Science and Business Analytics
 Internship Type - Work from Home
-In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
+#GRIPMAR21 @THESPARKFOUNDATION
+In this internship, we were provided a total of 5 Tasks and I was able to successfully complete 5 tasks within the given time-frame.
 
 
 ### Task-1 : Prediction using Supervised ML(Level - Beginner)
