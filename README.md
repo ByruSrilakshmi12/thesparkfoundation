@@ -1,9 +1,13 @@
 The Sparks Foundation Tasks
+
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
-Internship Category - Data Science and Business Analytics
-Internship Type - Work from Home
+● Internship Category - Data Science and Business Analytics
+
+● Internship Type - Work from Home
+
 #GRIPMAR21 @THESPARKFOUNDATION
+
 In this internship, we were provided a total of 5 Tasks and I was able to successfully complete 5 tasks within the given time-frame.
 
 
